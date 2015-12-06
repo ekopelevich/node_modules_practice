@@ -1,0 +1,19 @@
+{
+  "name": "node_modules_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_modules_practice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekopelevich/node_modules_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekopelevich/node_modules_practice/issues"
+  },
+  "homepage": "https://github.com/ekopelevich/node_modules_practice#readme"
+}
